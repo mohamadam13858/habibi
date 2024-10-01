@@ -15,3 +15,6 @@
 .users-list-item.active,.users-list-item.active .collapsible-header{
     background-color: rgb(236, 234, 234);
 }
+table.highlight > tbody > tr:focus{
+    background-color:#64b5f6;
+}
