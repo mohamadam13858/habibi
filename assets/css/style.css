@@ -1,3 +1,20 @@
+@font-face {
+    font-family:"BYekan" ;
+    src: url("../font/BYekan-webfont.ttf") format("truetype"),
+    url("../font/BYekan-webfont.woff") format("woff"),
+    url("../font/BYekan-webfont.eot") format("eot");
+    font-weight: normal;
+    font-style: normal;
+ 
+}
+
+
+
+*{
+  /*  direction: rtl;
+    font-family: "BYekan";*/
+}
+
 @media(min-width:600px){
     #top-navbar{
     box-shadow: 0 0 50px gray !important;
