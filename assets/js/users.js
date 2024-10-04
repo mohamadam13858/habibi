@@ -4,10 +4,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-const addUserButton = document.getElementsByid("add_user_button")
-addUserButton.addEventListener("click" , ()=>{
-  document.querySelector(".add_user_modal").classList.add("show")
- 
-})
 
   });
